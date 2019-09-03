@@ -1,0 +1,8 @@
+numpy
+Pillow
+cython
+scikit-learn
+numpy
+keras
+matplotlib
+jupyterlab
